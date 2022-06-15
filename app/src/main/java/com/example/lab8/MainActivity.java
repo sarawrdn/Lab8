@@ -11,7 +11,7 @@ import me.dm7.barcodescanner.zxing.ZXingScannerView;
 
 public class MainActivity extends AppCompatActivity implements ZXingScannerView.ResultHandler {
     private ZXingScannerView mScannerView;
-    //Object Test
+    //Object Test 123
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
